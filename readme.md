@@ -16,3 +16,7 @@
 
 ### Difference
 `pow : times = 20.1`
+
+
+### Usage of `std::pow()`
+When there is a exponential or something that is hard to be expressed directly by multiplication, such as `2^4.345`, `std::pow()` will be very handy to use.
